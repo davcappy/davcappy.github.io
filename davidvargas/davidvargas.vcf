@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vargas;David;;;
+FN:David Vargas
+ORG:Rockstar Venture
+ADR;TYPE=WORK:
+TITLE:AI Software Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:davidvargas0014@gmail.com
+URL;TYPE=Digital Business Card:davcappy.github.io
+URL:
+URL;TYPE=GitHub:https://github.com/davcappy
+URL;TYPE=LinkedIn:https://linkedin.com/in/✔davidvargas
+URL;TYPE=Discord:https://discordapp.com/users/226859062850093059
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100001691
+END:VCARD
